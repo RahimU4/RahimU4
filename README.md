@@ -1,0 +1,132 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Rahim+Ullah;Flutter+%7C+Mobile+App+Developer+%7C+QA+Engineer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Founder of <a href="https://sparkdevx.com">SparkDevX</a> — Turning Ideas into Scalable Mobile Solutions</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahim-u4"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/rahimdev_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://sparkdevx.com"><img src="https://img.shields.io/badge/Website-%236C63FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:info@rahimdev.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahimU4&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## 💫 About Me
+
+```yaml
+Name:       Rahim Ullah
+Role:       Flutter & Mobile App Developer | QA Engineer
+Company:    SparkDevX (Founder)
+Location:   Pakistan
+Experience: 3+ Years in Mobile Development
+Focus:      Building high-performance Android & iOS applications
+```
+
+- 🔭 Currently working on **cross-platform mobile apps** with Flutter & Kotlin Multiplatform
+- 🌱 Exploring **Jetpack Compose**, **KMP**, and **AI Integration** in mobile apps
+- 💼 Founder of **[SparkDevX](https://sparkdevx.com)** — helping clients transform ideas into real-world apps
+- 🎯 Focused on **clean architecture**, **scalable code**, and **premium UI/UX**
+- 📫 Reach me at **info@rahimdev.net** or **rahim@sparkdevx.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🔥 Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23FF6F00.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 AI & Integrations
+![Google AI](https://img.shields.io/badge/Google%20AI-%234285F4.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🧪 Testing & QA
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23009688.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-%23FF5722.svg?style=for-the-badge&logo=bugsnag&logoColor=white)
+![Performance Testing](https://img.shields.io/badge/Performance%20Testing-%23673AB7.svg?style=for-the-badge&logo=lighthouse&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-%23414141.svg?style=for-the-badge&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App%20Store-%230D96F6.svg?style=for-the-badge&logo=appstore&logoColor=white)
+
+---
+
+## 💼 Services
+
+| Service | Description |
+|---------|-------------|
+| 📱 **Mobile App Development** | Android & iOS apps with Flutter, Kotlin, Jetpack Compose |
+| 🎨 **UI/UX Design** | Clean, modern, and user-friendly interfaces |
+| 🧪 **QA & Testing** | Manual testing, bug reporting, performance optimization |
+| 🚀 **App Publishing** | Google Play Store & Apple App Store deployment |
+| 💰 **App Monetization** | AdMob, in-app purchases, subscription strategies |
+| 🔗 **API Integration** | REST APIs, Firebase, third-party services |
+| 📈 **ASO** | App Store Optimization for better visibility |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahimU4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimU4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahimU4&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RahimU4&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahimU4&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something amazing together! 🚀</b>
+</p>
+
+<p align="center">
+  <a href="https://sparkdevx.com"><img src="https://img.shields.io/badge/Hire%20Me-%236C63FF.svg?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me" /></a>
+  <a href="mailto:info@rahimdev.net"><img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+</p>
+
+<!-- Proudly crafted by Rahim Ullah | SparkDevX -->
