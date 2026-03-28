@@ -13,28 +13,28 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Mobile App Developer** and **QA Engineer** with **3+ years** of experience building high-performance Android & iOS applications. I specialize in turning ideas into scalable, user-friendly mobile solutions with clean UI/UX.
+I'm a passionate **Mobile App Developer** and **QA Engineer** with **3+ years** of experience building high-performance Android and iOS applications. I specialize in turning ideas into scalable, user-friendly mobile solutions with clean UI/UX.
 
-I'm the founder of **[SparkDevX](https://sparkdevx.com)** — where I help clients transform their ideas into real-world applications.
+I'm the founder of **[SparkDevX](https://sparkdevx.com)**, where I help clients transform their ideas into real-world applications.
 
-- 🔭 Currently building cross-platform apps with **Flutter** & **Kotlin Multiplatform**
-- 🌱 Exploring **Jetpack Compose**, **KMP**, and **AI Integration**
-- 📫 Reach me at **info@rahimdev.net** · **rahim@sparkdevx.com**
+Currently building cross-platform apps with **Flutter** and **Kotlin Multiplatform**, while exploring **Jetpack Compose**, **KMP**, and **AI Integration** in mobile apps.
+
+📫 **info@rahimdev.net** · **rahim@sparkdevx.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages and Frameworks**
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/KMP-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Backend & Databases**
+**Backend and Databases**
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
@@ -42,7 +42,7 @@ I'm the founder of **[SparkDevX](https://sparkdevx.com)** — where I help clien
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23FF6F00.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**AI & Tools**
+**AI and Tools**
 
 ![Google AI](https://img.shields.io/badge/Google%20AI-%234285F4.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
@@ -57,12 +57,18 @@ I'm the founder of **[SparkDevX](https://sparkdevx.com)** — where I help clien
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahimU4&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimU4&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RahimU4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RahimU4&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahimU4&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <img src="https://streak-stats.demolab.com?user=RahimU4&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </p>
 
 ---
@@ -70,13 +76,15 @@ I'm the founder of **[SparkDevX](https://sparkdevx.com)** — where I help clien
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahimU4&theme=radical&no-frame=true&margin-w=4&column=7" alt="Trophies" />
+  <picture>
+    <img src="https://github-profile-trophy.vercel.app/?username=RahimU4&theme=radical&no-frame=true&margin-w=4&column=7" alt="Trophies"/>
+  </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahimU4&label=Profile%20Views&color=FF7062&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RahimU4&label=Profile+Views&color=FF7062&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
