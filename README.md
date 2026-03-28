@@ -23,7 +23,7 @@ Currently building cross-platform apps with **Flutter** and **Kotlin Multiplatfo
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages and Frameworks**
 
