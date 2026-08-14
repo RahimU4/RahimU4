@@ -58,26 +58,16 @@ Currently building cross-platform apps with **Flutter** and **Kotlin Multiplatfo
 
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahimdev4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahimdev4&theme=radical" alt="GitHub Stats" height="170"/>
   </picture>
   <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahimdev4&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="170"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahimdev4&theme=radical" alt="Top Languages by Repository" height="170"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <img src="https://streak-stats.demolab.com?user=rahimdev4&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </picture>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=rahimdev4&theme=radical&no-frame=true&margin-w=4&column=7" alt="Trophies"/>
   </picture>
 </p>
 
